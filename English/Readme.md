@@ -15,11 +15,12 @@ Tag: ❰ `ᵠˣ` ❱
 
 [![1](https://github.com/QunixNetwork/.github/blob/main/rs/1.jpg)](https://github.com/QunixNetwork)
 
+
 **How to add my ᵠˣ community tag to my name?**
 
-For example: あ Shinei ᵠˣ
-First Name: あ Shinei
-Second Name: ᵠˣ
+- For example: `あ Shinei ᵠˣ`
+- First Name: `あ Shinei`
+- Second Name: `ᵠˣ`
 ㅤ
 
 ---
