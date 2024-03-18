@@ -5,4 +5,4 @@
 
 **• Choose a Language •**
 
-[]() • []() • []() • []()
+[English]() • [Español]() • [Русский]() • [bahasa Indonesia]() • [Português (Brazil)]() • [عربي]() • [Français]()
