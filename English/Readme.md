@@ -40,7 +40,7 @@ Complete The First and Second Rule.
 **What are the advantages of using our Quinx tags?**
 - 🌟 [@WaifusxBot](https://telegram.me/WaifusxBot)'s Benefits
 
-- ⭐ Receive advance access to [@WaifusxBot])'s special keys and high-quality wallpaper sets for free.
+- ⭐ Receive advance access to [@WaifusxBot](https://telegram.me/WaifusxBot)'s special keys and high-quality wallpaper sets for free.
 - ⭐ Gain access to [@WaifusxBot](https://telegram.me/WaifusxBot)'s private group, where you'll receive a free Diamond booster.
 - ⭐ Experience fewer ads in @WaifusXBot.
 - ⭐ Increase the visibility of your replies in [@WaifusxBot](https://telegram.me/WaifusxBot)'s private group.
