@@ -5,4 +5,4 @@
 
 **• Choose a Language •**
 
-[English]() • [Español]() • [Русский]() • [bahasa Indonesia]() • [Português (Brazil)]() • [عربي]() • [Français]()
+[English](https://github.com/QunixNetwork/Premium/tree/main/English) • [Español]() • [Русский]() • [bahasa Indonesia]() • [Português (Brazil)]() • [عربي]() • [Français]()
