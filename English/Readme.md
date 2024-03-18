@@ -1,3 +1,9 @@
+<div align="center">
+  
+❰ [Back](https://github.com/QunixNetwork/Premium) ❱
+
+ </div>
+ 
 > For those interested in joining the Quinx Network as Premium users, here are the terms and conditions. 
 
 **How can you become a part of us?**
@@ -61,3 +67,9 @@ Complete The First and Second Rule.
 - **Sponsored:** [@WaifusxBot](https://telegram.me/WaifusxBot)
 
 > _While it's not mandatory to use the tag, you are free to do so. Similar to other networks and communities, we provide own tag._
+
+<div align="center">
+  
+❰ [Back](https://github.com/QunixNetwork/Premium) ❱
+
+ </div>
