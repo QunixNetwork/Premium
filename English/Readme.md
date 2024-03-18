@@ -1,26 +1,64 @@
-⭐️ [@QuinxPremium]() FAQs
+> For those interested in joining the Quinx Network as Premium users, here are the terms and conditions. 
 
-- **Q1:** [What steps are required to join our community?](#L11)
-- **Q2:** [How do I include the ᵠˣ community tag in my name?]()
-- **Q3:** [What's the next step after completing the first rule or adding the community tag to my name?]() 
-- **Q4:** [What benefits come with using our Quinx tags?]()
-- **Q5:** [Qunix Premium Free Subscription Plan]()
+**How can you become a part of us?**
+> _To become a part of our network, follow this rule_
 
-For those interested in joining the Quinx Network as Premium users, here are the terms and conditions. 
-
-### How can you become a part of us?
-> To become a part of our network, follow this rule:
-
-**First Rule:** You need to incorporate our tag "ᵠˣ" into your name.
+**First Step:** You need to incorporate our tag "ᵠˣ" into your name.
 
 Tag: ❰ `ᵠˣ` ❱
-_(Optional Bio): Verified under @QuinxNetwork_
+> _(Optional Bio): Verified under @QuinxNetwork_
 
-**Second Rule:** Join This Channels, [@QuinxNetwork](), [@MaximXChannels](), and [@WaifusxUpdates]() Done.
+**Second Step:** Join This Channels, [@QuinxNetwork](https://telegram.me/addlist/dHD8PJt23bg0MGVl), [@MaximXChannels](https://telegram.me/addlist/q-UsVBF3Fs5lMmVl),[@WaifusxUpdates](https://telegram.me/WaifusxUpdates) and first step complete.
 ㅤ
 
+---
 
-Manage: [@QuinxNetwork]()
-Sponsored: [@WaifusxBot]()
+[![]()]()
+
+**How to add my ᵠˣ community tag to my name?**
+
+For example: あ Shinei ᵠˣ
+First Name: あ Shinei
+Second Name: ᵠˣ
+
+✉️ @QuinxNetwork
+ㅤ
+
+---
+
+**What to do after completing the first rule or adding the community tag to the name?**
+
+Complete The First and Second Rule.
+- Send a message stating, "I have completed the first and second step"
+- Message my assistant, Quinx Support Bot.
+- Last Step: Send screenshots like this [See Here](), I want to confirm if you have completed all the steps or not.
+
+> Upon completion, our community admins will check your account, and if approved, they will personally send you the link to Quinx's private group.
+ㅤ
+---
+
+**What are the advantages of using our Quinx tags?**
+- 🌟 [@WaifusxBot](https://telegram.me/WaifusxBot)'s Benefits
+
+- ⭐ Receive advance access to [@WaifusxBot])'s special keys and high-quality wallpaper sets for free.
+- ⭐ Gain access to [@WaifusxBot](https://telegram.me/WaifusxBot)'s private group, where you'll receive a free Diamond booster.
+- ⭐ Experience fewer ads in @WaifusXBot.
+- ⭐ Increase the visibility of your replies in [@WaifusxBot](https://telegram.me/WaifusxBot)'s private group.
+- ⭐ Be verified under [@QuinxStaffs](https://telegram.me/QuinxStaffs).
+
+━━━━━━━━━━━━━━━━━━━━
+
+- 🌟 [@QuinxAdBot](https://telegram.me/QuinxAdBot)'s Benefits
+
+- ⭐ Receive 10 QuinxCoin Free every week in [@QunixAdBot](https://telegram.me/QuinxAdBot) account.
+- ⭐ Enjoy up to 50% discount on [@QuinxAdBot](https://telegram.me/QuinxAdBot) Advertisement Market.
+- ⭐ Access the Quinx Group (PREMIUM) and receive fast support assistance.
+- ⭐ Be verified under [@QuinxStaffs](https://telegram.me/QuinxStaffs).
+
+
+---
+
+- **Manage:** [@QuinxNetwork](https://telegram.me/QuinxNetwork)
+- **Sponsored:** [@WaifusxBot](https://telegram.me/WaifusxBot)
 
 > _While it's not mandatory to use the tag, you are free to do so. Similar to other networks and communities, we provide own tag._
