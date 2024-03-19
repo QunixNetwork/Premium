@@ -5,4 +5,7 @@
 
 **• Choose a Language •**
 
-[English](https://github.com/QunixNetwork/Premium/tree/main/English) • [Español]() • [Русский]() • [bahasa Indonesia]() • [Português (Brazil)]() • [عربي]() • [Français]()
+[English](https://github.com/QunixNetwork/Premium/tree/main/English) • [Español](https://github.com/QunixNetwork/Premium/tree/main/Spanish) • [Русский](https://github.com/QunixNetwork/Premium/tree/main/Russian) • [bahasa Indonesia](https://github.com/QunixNetwork/Premium/tree/main/Indonesian) • [Português (Brazil)](https://github.com/QunixNetwork/Premium/tree/main/Portuguese%20(Brazil)) • [عربي](https://github.com/QunixNetwork/Premium/tree/main/Arabic) • [Français](https://github.com/QunixNetwork/Premium/tree/main/French) • [日本語](https://github.com/QunixNetwork/Premium/tree/main/Japanese) • [हिंदी](https://github.com/QunixNetwork/Premium/tree/main/Hindi)
+
+
+**Submit Your Language Request [Here](https://telegram.com/QuinxSupportBot)**
