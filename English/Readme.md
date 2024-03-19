@@ -36,7 +36,11 @@ Tag: ❰ `ᵠˣ` ❱
 Complete The First and Second Rule.
 - Send a message stating, "I have completed the first and second step"
 - Message my assistant, Quinx Support Bot.
-- Last Step: Send screenshots like this [See Here](), I want to confirm if you have completed all the steps or not.
+- Last Step: Send screenshots like this See Here, 👇
+
+[![See](https://github.com/QunixNetwork/.github/blob/main/rs/Screenshot.jpg)](https://github.com/QunixNetwork/Premium)
+
+I want to confirm if you have completed all the steps or not.
 
 > Upon completion, our community admins will check your account, and if approved, they will personally send you the link to Quinx's private group.
 ㅤ
