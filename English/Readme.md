@@ -51,11 +51,11 @@ I want to confirm if you have completed all the steps or not.
 
 - ⭐ Receive advance access to [@WaifusxBot](https://telegram.me/WaifusxBot)'s special keys and high-quality wallpaper sets for free.
 - ⭐ Gain access to [@WaifusxBot](https://telegram.me/WaifusxBot)'s private group, where you'll receive a free Diamond booster.
-- ⭐ Experience fewer ads in @WaifusXBot.
+- ⭐ Experience fewer ads in [@WaifusXBot](https://telegram.me/WaifusxBot).
 - ⭐ Increase the visibility of your replies in [@WaifusxBot](https://telegram.me/WaifusxBot)'s private group.
 - ⭐ Be verified under [@QuinxStaffs](https://telegram.me/QuinxStaffs).
 
-━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━
 
 - 🌟 [@QuinxAdBot](https://telegram.me/QuinxAdBot)'s Benefits
 
